@@ -22,4 +22,4 @@ Required Packages can be retrieved from [requirements.txt](https://github.com/ls
 
 Required Dataset: can be downloaded from Kaggle [here](https://www.kaggle.com/datasets/arushchillar/disneyland-reviews)
 
-The [Preprocessing](https://github.com/ls-schwnstr/Topic-Modeling/blob/main/Preprocessing) must be executed first.
+The [Preprocessing](https://github.com/ls-schwnstr/Topic-Modeling/blob/main/Preprocessing.ipynb) must be executed first.
