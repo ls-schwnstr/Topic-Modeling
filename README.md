@@ -1,5 +1,11 @@
 # Topic-Modeling
+This repository includes
 
+- Latent Dirichlet Allocation with BoW Corpus
+- Latent Dirichlet Allocation with Tf-Idf Corpus
+- Hierarchical Dirichlet Process using Gensim
+- Hierarchical Dirichlet Process using Tomotopy
+   
 ## Installation
 
 Requirements: Python 3.7+
